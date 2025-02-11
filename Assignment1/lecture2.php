@@ -8,7 +8,7 @@
 <body>
     
 <?php
-// Challenge 1
+// Challenge 1 
 $number1 = 10;
 $number2 = 5;
 

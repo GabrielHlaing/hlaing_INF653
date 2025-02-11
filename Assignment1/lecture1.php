@@ -52,7 +52,7 @@ $price = 50;
 $discount = 10; // The discount amount
 
 /* Calculate the final price by subtracting the discount 
-   from the original price */
+   from the original price */ 
 $finalPrice = $price - $discount; 
 
 # Display the final total price
